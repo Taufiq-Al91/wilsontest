@@ -1,5 +1,6 @@
 <?php
 
+//Create Confiq
 class database{
     var $host = "localhost";
     var $uname = "root";
